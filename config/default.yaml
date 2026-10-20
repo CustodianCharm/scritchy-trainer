@@ -1,0 +1,17 @@
+process_name: ScritchyScratchy.exe
+log_level: INFO
+
+overlay:
+  enabled: true
+  position: [20, 20]
+  alpha: 0.75
+
+features:
+  overlay: true
+  autoplay: false
+  hit_window_ms: 90
+
+hotkeys:
+  toggle_overlay: "ctrl+shift+o"
+  toggle_autoplay: "ctrl+shift+a"
+  panic: "ctrl+shift+x"
