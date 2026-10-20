@@ -1,0 +1,10 @@
+# Scritchy Scratchy Trainer - runtime deps
+pywin32==306
+pynput==1.7.6
+keyboard==0.13.5
+mss==9.0.1
+opencv-python==4.9.0.80
+numpy==1.26.4
+PyYAML==6.0.1
+requests==2.31.0
+colorama==0.4.6
